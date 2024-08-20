@@ -1,4 +1,4 @@
-import Logo from "../../public/logo.png"
+import Logo from "/logo.png"
 
 // POST para verificar email e senha para 
 
